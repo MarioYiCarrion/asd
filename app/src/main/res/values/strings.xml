@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppProyectoKotlin</string>
+    <string name="tituloimc">CALCULADORA INDICE DE MASA CORPORAL</string>
+    <string name="textbtncalcular">CALCULAR</string>
+    <string name="textettalla">Ingrese su Talla (cm)</string>
+    <string name="textetpeso">Ingrese su Peso (kg)</string>
+    <string name="promedioIdat">PROMEDIO IDAT</string>
+    <string name="textingnota">Ingrese su Nota</string>
+    <string name="textingnotas">Ingrese Nota</string>
+    <string name="btncalcular">CALCULAR</string>
+</resources>
